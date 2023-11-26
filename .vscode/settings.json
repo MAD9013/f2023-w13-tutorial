@@ -5,5 +5,8 @@
     "titleBar.inactiveBackground": "#387bb2",
     "titleBar.inactiveForeground": "#000c"
   },
-  "liveServer.settings.port": 9014
+  "liveServer.settings.port": 9013,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
 }
